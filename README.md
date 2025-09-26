@@ -7,7 +7,7 @@ Master in Data Science for Economics
 Università degli Studi di Milano  
 
 ## Files Included
-- **Project1.ipynb** – Jupyter Notebook containing the full code pipeline:
+- **Project_1_clean.ipynb** – Jupyter Notebook containing the full code pipeline:
   - Data download via Kaggle API
   - Preprocessing (cleaning, language filtering, tokenization)
   - Duplicate detection with TF–IDF + Cosine Similarity and MinHash + LSH
@@ -24,7 +24,7 @@ Università degli Studi di Milano
 - **README.md** – This file, providing instructions and project overview.
 
 ## How to Run the Notebook
-1. Open **Project1.ipynb** in **Google Colab** (recommended).  
+1. Open **Project_1_clean.ipynb** in **Google Colab** (recommended).  
 2. In the first code cell, add your **Kaggle API credentials**:  
    ```python
    !mkdir -p ~/.kaggle
